@@ -6,11 +6,10 @@ Currently being hosted on local machine.
 
 To see in action:
 
-* Send any email to `<anything>@sandboxcba11b8e847a463698ef86ca3c2282c8.mailgun.org`
-* Visit `http://bb7cd0e6.ngrok.io/inbound_emails.json`
+* Send any email to
+```<anything>@sandboxcba11b8e847a463698ef86ca3c2282c8.mailgun.org
+* Visit [Here](http://bb7cd0e6.ngrok.io/inbound_emails.json)
   - NOTE: the domain above is only being used to tunnel through local server
 
 All configuration happens on the mailgun side with a [Mailgun](https://www.mailgun.com) account which we'll setup a coorporate account for later
 
-
-* ...
