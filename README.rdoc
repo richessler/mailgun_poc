@@ -6,8 +6,7 @@ Currently being hosted on local machine.
 
 To see in action:
 
-* Send any email to
-```<anything>@sandboxcba11b8e847a463698ef86ca3c2282c8.mailgun.org
+* Send any email to <anything>@sandboxcba11b8e847a463698ef86ca3c2282c8.mailgun.org
 * Visit [Here](http://bb7cd0e6.ngrok.io/inbound_emails.json)
   - NOTE: the domain above is only being used to tunnel through local server
 
